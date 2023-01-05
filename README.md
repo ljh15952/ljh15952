@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljh15952&count_bg=%2300FF8C&title_bg=%2300D5FB&icon=&icon_color=%23FF2525&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljh15952&show_icons=true&theme=merko)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ljh15952)](https://solved.ac/ljh15952)
