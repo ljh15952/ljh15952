@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ljh15952)](https://solved.ac/ljh15952)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljh15952&show_icons=true&theme=merko)
